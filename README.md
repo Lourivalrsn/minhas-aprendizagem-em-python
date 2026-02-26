@@ -1,0 +1,5 @@
+n3 = float(input('digite a nota do aluno: '))
+n4 = float(input('digite a segunda nota do aluno: '))
+soma = (n3 + n4) / 2
+
+print('a média do aluno é: {:.1f}'.format(soma))
