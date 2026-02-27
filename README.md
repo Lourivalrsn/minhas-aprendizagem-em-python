@@ -1,1 +1,1 @@
-isso é so minha aprendizagem em python
+isso é so minha aprendizagem em python.
